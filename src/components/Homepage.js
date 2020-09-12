@@ -114,7 +114,9 @@ const Homepage = () => {
 </div>
 
 {/* Recommeded items section */}
-<br></br>
+<br />
+<br />
+
 <h4 className="pull-left mt-4">Recommended For You!</h4>
   <div className="row">
     <div className="col-sm-2">
