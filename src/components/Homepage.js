@@ -132,7 +132,7 @@ const Homepage = () => {
     <a href="#jeans">
     <img
       className="d-block w-100"
-      src={require("../static/images/slide-01.jpg")}
+      src={require("../static/images/slide-02.jpg")}
       alt="Get your Latest Fashion trends. Shop Now!"
       href="#jeans"
     />
@@ -143,7 +143,7 @@ const Homepage = () => {
       <a href="#skirts">
       <img
       className="d-block w-100"
-      src={require("../static/images/slide-01.jpg")}
+      src={require("../static/images/slide-03.jpg")}
       alt="Get your Latest Fashion trends. Shop Now!"
       href="#jeans"
     />
@@ -165,7 +165,7 @@ const Homepage = () => {
       <a href="#jeans">
       <img
       className="d-block w-100"
-      src={require("../static/images/slide-01.jpg")}
+      src={require("../static/images/slide-02.jpg")}
       alt="Get your Latest Fashion trends. Shop Now!"
       href="#jeans"
       />
@@ -173,14 +173,17 @@ const Homepage = () => {
     </div>
     
     <div className="col-sm-2">
-    <a href="#jeans">
+      <Card>
+      <a href="#jeans">
     <img
       className="d-block w-100"
-      src={require("../static/images/slide-01.jpg")}
+      src={require("../static/images/slide-03.jpg")}
       alt="Get your Latest Fashion trends. Shop Now!"
       href="#jeans"
     />
     </a>
+      </Card>
+    
     </div>
   </div>
   {/* End of recommended row */}
