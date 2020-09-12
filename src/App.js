@@ -1,11 +1,16 @@
 import React from 'react';
-
+import NavBar from './components/NavBar';
+import ShopSlideshow from './components/ShopSlideshow';
+import './index'
 import './App.css';
+
+
 
 function App() {
   return (
     <div className="App">
-     <h4>Welcome to my shop my beautiful customers</h4>
+      <NavBar></NavBar> <br></br>
+      <ShopSlideshow></ShopSlideshow>
     </div>
   );
 }
