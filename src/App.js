@@ -5,6 +5,7 @@ import NavBar from './components/NavBar';
 import Homepage from './components/Homepage';
 import LadiesWear from './components/LadiesWear';
 import MensWear from './components/MensWear';
+import Jeans from './components/Jeans';
 import Footer from './components/Footer';
 import './index'
 import './App.css';
@@ -20,6 +21,8 @@ function App() {
       <Route path="/" component={Homepage} exact/>
       <Route path="/ladies-wear" component={LadiesWear} exact/>
       <Route path="/mens-wear" component={MensWear} exact/>
+      <Route path="/jeans" component={Jeans} exact/>
+
 
 
       </Switch>
