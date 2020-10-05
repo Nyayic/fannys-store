@@ -28,7 +28,7 @@ const Dresses = () => {
                    
                 </Card>
                 <Card>
-                    <Card.Img variant="top" src={require("../static/images/dress-01.jpg")} />
+                    <Card.Img variant="top" src={require("../static/images/dress-02.jpg")} />
                     <Card.Body>
                     <Card.Title>Dress</Card.Title>
                     <Card.Text>UGX 23,500
@@ -38,7 +38,7 @@ const Dresses = () => {
                 </Card>
 
                 <Card>
-                    <Card.Img variant="top" src={require("../static/images/dress-01.jpg")} />
+                    <Card.Img variant="top" src={require("../static/images/dress-03.jpg")} />
                     <Card.Body>
                     <Card.Title>Dress</Card.Title>
                     <Card.Text>UGX 20,500
