@@ -161,6 +161,36 @@ const Jeans = () => {
                     </Card.Body>
                     
                 </Card>
+
+                <Card>
+                    <Card.Img variant="top" src={require("../static/images/jeans-01.jpg")} />
+                    <Card.Body>
+                    <Card.Title>Jeans</Card.Title>
+                    <Card.Text>UGX 16,500
+                    </Card.Text>
+                    </Card.Body>
+                    
+                </Card>
+
+                <Card>
+                    <Card.Img variant="top" src={require("../static/images/jeans-01.jpg")} />
+                    <Card.Body>
+                    <Card.Title>Jeans</Card.Title>
+                    <Card.Text>UGX 16,500
+                    </Card.Text>
+                    </Card.Body>
+                    
+                </Card>
+
+                <Card>
+                    <Card.Img variant="top" src={require("../static/images/jeans-01.jpg")} />
+                    <Card.Body>
+                    <Card.Title>Jeans</Card.Title>
+                    <Card.Text>UGX 16,500
+                    </Card.Text>
+                    </Card.Body>
+                    
+                </Card>
                
 
 
